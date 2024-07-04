@@ -1,0 +1,12 @@
+.background{
+    background-color: navy;
+}
+.card-title{
+    height: 130px;
+}
+.card-text{
+    height: 200px;
+}
+.date-and-source{
+    font-size: 11px;
+}
